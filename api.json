@@ -8,7 +8,7 @@
     "md5sum": "23ad358f9ae22afdfed737efae8eed3f",
     "filename": "cm-14.0-20161017-UNOFFICIAL-bacon.zip",
     "channel": "NIGHTLY",
-    "changes": "https://dl.dropboxusercontent.com/u/93757059/OnePlusTugaPowerCM14/ota/bacon/n1.txt",
+    "changes": "https://raw.githubusercontent.com/amardeep434/cmupdaterapi/cm-14.0/Changelog.txt",
     "incremental": ""
     },
 	],
