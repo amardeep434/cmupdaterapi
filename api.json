@@ -1,0 +1,16 @@
+{
+ "id": null,
+ "result": [
+    {
+    "url": "https://fl1.androidfilehost.com/dl/wBv1zM9ENdcSU6_N0Lixdg/1477004984/312968873555004701/cm-14.0-20161017-UNOFFICIAL-bacon.zip",
+	"timestamp": "1476729119",
+    "api_level": "24",
+    "md5sum": "23ad358f9ae22afdfed737efae8eed3f",
+    "filename": "cm-14.0-20161017-UNOFFICIAL-bacon.zip",
+    "channel": "NIGHTLY",
+    "changes": "https://dl.dropboxusercontent.com/u/93757059/OnePlusTugaPowerCM14/ota/bacon/n1.txt",
+    "incremental": ""
+    },
+	],
+ "error": null
+}
