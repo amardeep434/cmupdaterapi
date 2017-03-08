@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Nitrogen-OS</RomName>
-<VersionName>Nitrogen-OS-mako-20170308</VersionName>
+<VersionName>Nitrogen-OS-bacon-20170308</VersionName>
 <VersionNumber type="integer">20170308</VersionNumber>
 <DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/amardeep434/Nitrogen-OS-bacon-20170308.zip]]></DirectUrl>
 <HttpUrl><![CDATA[http://goo.gl/yFYbfS]]></HttpUrl>
 <Android>7.1.1</Android>
-<FileSize type="integer">284686</FileSize>
+<FileSize type="integer">311874332</FileSize>
 <Developer><![CDATA[amardeep434]]></Developer>
 <WebsiteURL><![CDATA[https://goo.gl/7ItBR8]]></WebsiteURL>
 <DonateURL><![CDATA[https://goo.gl/41iI5i]]></DonateURL>
