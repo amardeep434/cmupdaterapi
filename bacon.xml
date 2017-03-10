@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
 <RomName>Nitrogen-OS</RomName>
-<VersionName>Nitrogen-OS-bacon-20170309</VersionName>
-<VersionNumber type="integer">20170309</VersionNumber>
-<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/amardeep434/Nitrogen-OS-bacon-20170309.zip]]></DirectUrl>
+<VersionName>Nitrogen-OS-bacon-20170310</VersionName>
+<VersionNumber type="integer">20170310</VersionNumber>
+<DirectUrl><![CDATA[https://basketbuild.com/uploads/devs/amardeep434/Nitrogen-OS-bacon-20170310.zip]]></DirectUrl>
 <HttpUrl><![CDATA[http://goo.gl/yFYbfS]]></HttpUrl>
 <Android>7.1.1</Android>
-<FileSize type="integer">311520830</FileSize>
-<Developer><![CDATA[Amardeep Arora(amardeep434)]]></Developer>
+<FileSize type="integer">311638317</FileSize>
+<Developer><![CDATA[Amardeep Arora (amardeep434)]]></Developer>
 <WebsiteURL><![CDATA[https://goo.gl/7ItBR8]]></WebsiteURL>
 <DonateURL><![CDATA[https://goo.gl/41iI5i]]></DonateURL>
 <Changelog>
